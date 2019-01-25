@@ -1,7 +1,10 @@
+body{
+    background-color: bisque;
+}
 #main_button {
     background-color: rgb(238, 31, 16);
     border: none;
-    width: 19.9%;
+    width: 19.5%;
     -webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
     border-radius:12px;
