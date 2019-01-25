@@ -1,6 +1,8 @@
 #main_button {
     background-color: rgb(238, 31, 16);
     border: none;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
     border-radius:12px;
     color: white;
     padding: 15px 32px;
@@ -8,10 +10,17 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+  }
+  #main_button:hover {
+    background-color: rgb(0, 188, 245); /* Green */
+    color: rgb(0, 0, 0);
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
   }
   #levi_button {
     background-color: rgb(202, 167, 52);
     border: none;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
     border-radius:12px;
     color: white;
     padding: 15px 32px;
@@ -19,10 +28,17 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+  }
+  #levi_button:hover {
+    background-color: rgb(0, 188, 245); /* Green */
+    color: rgb(0, 0, 0);
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
   }
   #kristof_button {
     background-color: rgb(174, 46, 185);
     border: none;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
     border-radius:12px;
     color: white;
     padding: 15px 32px;
@@ -30,10 +46,17 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+  }
+  #kristof_button:hover {
+    background-color: rgb(0, 188, 245); /* Green */
+    color: rgb(0, 0, 0);
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
   }
   #panni_button {
     background-color: rgb(46, 56, 192);
     border: none;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
     border-radius:12px;
     color: white;
     padding: 15px 32px;
@@ -42,9 +65,16 @@
     display: inline-block;
     font-size: 16px;
   }
+  #panni_button:hover {
+    background-color: rgb(0, 188, 245); /* Green */
+    color: rgb(0, 0, 0);
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
   #peter_button {
     background-color: #4CAF50;
     border: none;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
     border-radius:12px;
     color: white;
     padding: 15px 32px;
@@ -80,4 +110,9 @@
     border: none;
     text-align: center;
     padding: 15px 32px;
+  }
+  #peter_button:hover {
+    background-color: rgb(0, 188, 245); /* Green */
+    color: rgb(0, 0, 0);
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
   }
