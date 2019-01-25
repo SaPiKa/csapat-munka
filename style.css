@@ -53,3 +53,31 @@
     display: inline-block;
     font-size: 16px;
   }
+  #panni2_button {
+      background-color: #003300;
+      color: #ff33cc;
+      border: none;
+      text-align: center;
+      padding: 15px 32px;
+  }
+  #peter2_button {
+    background-color: #003300;
+    color: #ff33cc;
+    border: none;
+    text-align: center;
+    padding: 15px 32px;
+  }
+  #kristof2_button {
+    background-color: #003300;
+    color: #ff33cc;
+    border: none;
+    text-align: center;
+    padding: 15px 32px; 
+  }
+  #levi2_button {
+    background-color: #003300;
+    color: #ff33cc;
+    border: none;
+    text-align: center;
+    padding: 15px 32px;
+  }
