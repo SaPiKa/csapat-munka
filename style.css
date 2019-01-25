@@ -1,0 +1,55 @@
+#main_button {
+    background-color: rgb(238, 31, 16);
+    border: none;
+    border-radius:12px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  #levi_button {
+    background-color: rgb(202, 167, 52);
+    border: none;
+    border-radius:12px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  #kristof_button {
+    background-color: rgb(174, 46, 185);
+    border: none;
+    border-radius:12px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  #panni_button {
+    background-color: rgb(46, 56, 192);
+    border: none;
+    border-radius:12px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  #peter_button {
+    background-color: #4CAF50;
+    border: none;
+    border-radius:12px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
