@@ -1,7 +1,64 @@
+body{
+    background-image: url("map.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color: white;
+    font-size: 350%;
+    text-align:center;
+    font-family: verdana;
+    margin: 50px;
+}
+h2{
+    color: white;
+    font-size: 225%;
+    text-align:center;
+    font-family: verdana;
+    margin: 50px;
+}
+h3{
+    color: white;
+    font-size: 200%;
+    font-family: verdana;
+    margin: 50px;
+}
+p{
+    color: white;
+    font-size: 150%;
+    margin: 20px;
+}
+.levi_london{
+    display: block;
+    margin-right: auto;
+    width: 25%;
+}
+.left {
+    display: block;
+    margin-right: auto;
+    width: 25%;
+}
+.right {
+    display: block;
+    margin-left: auto;
+    width: 30%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.anubis {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
 #main_button {
     background-color: rgb(238, 31, 16);
     border: none;
-    width: 19.9%;
+    width: 19.5%;
     -webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
     border-radius:12px;
@@ -92,4 +149,39 @@
     background-color: rgb(0, 188, 245); /* Green */
     color: rgb(0, 0, 0);
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  #panni2_button {
+      background-color: #071307;
+      color: #55ff33;
+      border: none;
+      text-align: center;
+      padding: 15px 32px;
+  }
+  #peter2_button {
+    background-color:#071307;
+    color: #55ff33;
+    border: none;
+    text-align: center;
+    padding: 15px 32px;
+  }
+  #kristof2_button {
+    background-color: #071307;
+    color: #55ff33;
+    border: none;
+    text-align: center;
+    padding: 15px 32px; 
+  }
+  #levi2_button {
+    background-color: #071307;
+    color: #55ff33;
+    border: none;
+    text-align: center;
+    padding: 15px 32px;
+  }
+  #main2_button {
+    background-color: #071307;
+    color: #55ff33;
+    border: none;
+    text-align: center;
+    padding: 15px 32px;
   }
