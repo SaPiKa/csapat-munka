@@ -5,12 +5,44 @@ body{
 }
 h1{
     color: white;
+    font-size: 300%;
+    text-align:center;
+    font-family: verdana;
+    margin: 50px;
 }
 h2{
     color: white;
+    font-size: 200%;
+    text-align:center;
+    font-family: verdana;
+    margin: 50px;
 }
 p{
     color: white;
+    font-size: 125%;
+    margin: 20px;
+}
+.left {
+    display: block;
+    margin-right: auto;
+    width: 25%;
+}
+.right {
+    display: block;
+    margin-left: auto;
+    width: 30%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.anubis {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
 }
 #main_button {
     background-color: rgb(238, 31, 16);
