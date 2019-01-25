@@ -1,5 +1,16 @@
 body{
-    background-color: bisque;
+    background-image: url("map.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
 }
 #main_button {
     background-color: rgb(238, 31, 16);
