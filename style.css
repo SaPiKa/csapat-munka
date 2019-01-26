@@ -1,37 +1,61 @@
-body{
+body {
     background-image: url("map.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-h1{
+h1 {
     color: white;
     font-size: 350%;
     text-align:center;
     font-family: verdana;
     margin: 50px;
 }
-h2{
+h2 {
     color: white;
     font-size: 225%;
     text-align:center;
     font-family: verdana;
     margin: 50px;
 }
-h3{
+h3 {
     color: white;
     font-size: 200%;
     font-family: verdana;
     margin: 50px;
 }
-p{
+p {
     color: white;
     font-size: 150%;
     margin: 20px;
 }
-.levi_london{
+.levi {
+    display: block;
+    margin-left: auto;
+    width: 30%;
+}
+.levi_london {
     display: block;
     margin-right: auto;
-    width: 25%;
+    margin-left: auto;
+    width: 55%;
+}
+.levi_nemet {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 55%;
+}
+.levi_ukrajna {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 55%;
+}
+.levi_horvat {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 55%;
 }
 .left {
     display: block;
